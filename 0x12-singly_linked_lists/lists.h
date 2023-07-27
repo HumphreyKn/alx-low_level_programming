@@ -1,6 +1,10 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#include <stddef.h>
+#include <stdio.h>
+#include <stdlib.h>
+
 /**
  * struct elements - singly linked list to store lelements
  * @str: pointer to the string
